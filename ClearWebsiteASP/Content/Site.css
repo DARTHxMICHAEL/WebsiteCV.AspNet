@@ -1,0 +1,20 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+ /*Wrapping element 
+ Set some basic padding to keep content from hitting the edges*/ 
+.body-content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/*.canvas {
+    position: absolute;
+    z-index: 1000;
+    manipulacja położenia wszystkich centralnych obiektów!
+    left: 0%;
+    top: 0%;
+}*/
